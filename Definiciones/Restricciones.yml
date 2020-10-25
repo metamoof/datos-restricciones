@@ -142,4 +142,180 @@ movilidad extranjera:
                 en: China
               código iso: CN
               emoji: 🇨🇳
+            - nombre:
+                es: Austria
+                en: Austria
+              código iso: AT
+              emoji: 🇦🇹
+            - nombre:
+                es: Bélgica
+                en: Belgium
+              código iso: BE
+              emoji: 🇧🇪
+            - nombre:
+                es: Bulgaria
+                en: Bulgaria
+              código iso: BG
+              emoji: 🇧🇬
+            - nombre:
+                es: Suiza
+                en: Switzerland
+              código iso: CH
+              emoji: 🇨🇭
+            - nombre:
+                es: Chipre
+                en: Cyprus
+              código iso: CY
+              emoji: 🇨🇾
+            - nombre:
+                es: Republica Checa
+                en: Czechia
+              código iso: CZ
+              emoji: 🇨🇿
+            - nombre:
+                es: Alemania
+                en: Germany
+              código iso: DE
+              emoji: 🇩🇪
+            - nombre:
+                es: Dinamarca
+                en: Denmark
+              código iso: DK
+              emoji: 🇩🇰
+            - nombre:
+                es: Estonia
+                en: Estonia
+              código iso: EE
+              emoji: 🇪🇪
+            - nombre:
+                es: España
+                en: Spain
+              código iso: ES
+              emoji: 🇪🇸
+            - nombre:
+                es: Finlandia
+                en: Finland
+              código iso: FI
+              emoji: 🇫🇮
+            - nombre:
+                es: Francia
+                en: France
+              código iso: FR
+              emoji: 🇫🇷
+            - nombre:
+                es: Reino Unido
+                en: United Kingdom
+              código iso: GB
+              emoji: 🇬🇧
+            - nombre:
+                es: Grecia
+                en: Greece
+              código iso: GR
+              emoji: 🇬🇷
+            - nombre:
+                es: Croacia
+                en: Croatia
+              código iso: HR
+              emoji: 🇭🇷
+            - nombre:
+                es: Hungría
+                en: Hungary
+              código iso: HU
+              emoji: 🇭🇺
+            - nombre:
+                es: Irlanda
+                en: Ireland
+              código iso: IE
+              emoji: 🇮🇪
+            - nombre:
+                es: Islandia
+                en: Iceland
+              código iso: IS
+              emoji: 🇮🇸
+            - nombre:
+                es: Italia
+                en: Italy
+              código iso: IT
+              emoji: 🇮🇹
+            - nombre:
+                es: Liechtenstein
+                en: Liechtenstein
+              código iso: LI
+              emoji: 🇱🇮
+            - nombre:
+                es: Lituania
+                en: Lithuania
+              código iso: LT
+              emoji: 🇱🇹
+            - nombre:
+                es: Luxemburgo
+                en: Luxembourg
+              código iso: LU
+              emoji: 🇱🇺
+            - nombre:
+                es: Letonia
+                en: Latvia
+              código iso: LV
+              emoji: 🇱🇻
+            - nombre:
+                es: Mónaco
+                en: Monaco
+              código iso: MC
+              emoji: 🇲🇨
+            - nombre:
+                es: Malta
+                en: Malta
+              código iso: MT
+              emoji: 🇲🇹
+            - nombre:
+                es: Países Bajos
+                en: Netherlands
+              código iso: NL
+              emoji: 🇳🇱
+            - nombre:
+                es: Noruega
+                en: Norway
+              código iso: "NO"
+              emoji: 🇳🇴
+            - nombre:
+                es: Polonia
+                en: Poland
+              código iso: PL
+              emoji: 🇵🇱
+            - nombre:
+                es: Portugal
+                en: Portugal
+              código iso: PT
+              emoji: 🇵🇹
+            - nombre:
+                es: Rumanía
+                en: Romania
+              código iso: RO
+              emoji: 🇷🇴
+            - nombre:
+                es: Suecia
+                en: Sweden
+              código iso: SE
+              emoji: 🇸🇪
+            - nombre:
+                es: Eslovenia
+                en: Slovenia
+              código iso: SI
+              emoji: 🇸🇮
+            - nombre:
+                es: Eslovaquia
+                en: Slovakia
+              código iso: SK
+              emoji: 🇸🇰
+            - nombre:
+                es: San Marino
+                en: San Marino
+              código iso: SM
+              emoji: 🇸🇲
+            - nombre:
+                es: Ciudad del Vaticano
+                en: Vatican City
+              código iso: VA
+              emoji: 🇻🇦
+
 
