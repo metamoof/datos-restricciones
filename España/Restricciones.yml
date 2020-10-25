@@ -1,0 +1,16 @@
+toque de queda:
+    regimen: 2300-0600
+    norma: pendiente
+    desde: 26/06/2020
+
+mascarillas:
+    regimen: sin distancia de seguridad
+    norma: BOE-A-2020-5895
+    
+distancia de seguridad:
+    regimen: 1.5m
+    norma: BOE-A-2020-5895
+
+movilidad extranjera:
+    regimen: solo UE y paises extras 28/08/2020
+    norma: BOE-A-2020-8099

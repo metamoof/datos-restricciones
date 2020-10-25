@@ -1,0 +1,145 @@
+mascarillas:
+    siempre:
+        descripción corta: 
+            es: "Uso de mascarillas obligatorio en publico siempre"
+    sin distancia de seguridad:
+        descripción corta:
+            es: "Uso de mascarillas cuando no hay distancia seguridad"
+
+distancia de seguridad:
+    1.5m:
+        descripción corta:
+            es: "Mantener la Distancia de Seguridad de 1.5m siempre que sea posible"
+        distancia: 1.5m
+
+límite aforo:
+    descripción corta:
+        es: "Límite de aforo"
+
+toque de queda:
+    - sin restricciones:
+        descripción corta:
+            es: "No hay toque de queda"
+            en: "No curfew"
+    - 2300-0600:
+        descripción corta:
+            es: "Toque de queda de 23:00 a 06:00"
+        desde: "23:00"
+        hasta: "06:00"
+    - 2300-0500:
+        descripción corta:
+            es: "Toque de queda de 23:00 a 05:00"
+        desde: "23:00"
+        hasta: "05:00"
+    - 2300-0700:
+        descripción corta:
+            es: "Toque de queda de 23:00 a 07:00"
+        desde: "23:00"
+        hasta: "07:00"
+    - 2200-0600:
+        descripción corta:
+            es: "Toque de queda de 22:00 a 06:00"
+        desde: "22:00"
+        hasta: "06:00"
+    - 2200-0500:
+        descripción corta:
+            es: "Toque de queda de 22:00 a 05:00"
+        desde: "22:00"
+        hasta: "05:00"
+    - 2200-0700:
+        descripción corta:
+            es: "Toque de queda de 22:00 a 07:00"
+        desde: "22:00"
+        hasta: "07:00"
+    - 0000-0600:
+        descripción corta:
+            es: "Toque de queda de 00:00 a 06:00"
+        desde: "00:00"
+        hasta: "06:00"
+    - 0000-0500:
+        descripción corta:
+            es: "Toque de queda de 00:00 a 05:00"
+        desde: "00:00"
+        hasta: "05:00"
+    - 0000-0700:
+        descripción corta:
+            es: "Toque de queda de 00:00 a 07:00"
+        desde: "00:00"
+        hasta: "07:00"
+    
+
+movilidad extranjera:
+    - solo UE y paises extras 28/08/2020:
+        descripción corta:
+            es: "Viajes no esenciales solo Paises UE/Schenghen y determinados terceros paises"
+            en: "Only essential travel unless coming from Schenghen/EU and certain other countries"
+        decripción:
+            es: "Solo se permite entrada de viajes no esenciales de personas viajando desde paises de la UE o de la zona Schenghen, así cómo Andorra, Australia, Canadá, Georgia, Gibraltar, Japón, Nueva Zelanda, Ruanda, Corea del Sur, Tailandia, Túnez, Uruguay, China"
+            en: "Travellers are denied entry for non-essential travel unless they come from an EU country, a Schenghen Area country, or Andorra, Australia, Canada, Georgia, Gibraltar, Japan, New Zealand, Rwanda, South Korea, Thailand, Tunisia, Uruguay, China"
+        paises permitidos:
+            - nombre:
+                es: Andorra
+                en: Andorra
+              código iso: AD
+              emoji: 🇦🇩
+            - nombre:
+                es: Australia
+                en: Australia
+              código iso: AU
+              emoji: 🇦🇺
+            - nombre:
+                es: Canadá
+                en: Canada
+              código iso: CA
+              emoji: 🇨🇦
+            - nombre:
+                es: Georgia
+                en: Georgia
+              código iso: GE
+              emoji: 🇬🇪
+            - nombre:
+                es: Gibraltar
+                en: Gibraltar
+              código iso: GI
+              emoji: 🇬🇮
+            - nombre:
+                es: Japón
+                en: Japan
+              código iso: JP
+              emoji: 🇯🇵
+            - nombre:
+                es: Nueva Zelanda
+                en: New Zealand
+              código iso: NZ
+              emoji: 🇳🇿
+            - nombre:
+                es: Ruanda
+                en: Rwanda
+              código iso: RW
+              emoji: 🇷🇼
+            - nombre:
+                es: Corea del Sur
+                en: South Korea
+              código iso: KR
+              emoji: 🇰🇷
+            - nombre:
+                es: Tailandia
+                en: Thailand
+              código iso: TH
+              emoji: 🇹🇭
+            - nombre:
+                es: Túnez
+                en: Tunisia
+              código iso: TN
+              emoji: 🇹🇳
+            - nombre:
+                es: Uruguay
+                en: Uruguay
+              código iso: UY
+              emoji: 🇺🇾
+            - nombre:
+                es: China
+                en: China
+              código iso: CN
+              emoji: 🇨🇳
+
